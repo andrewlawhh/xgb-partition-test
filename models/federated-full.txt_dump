@@ -1,0 +1,398 @@
+booster[0]:
+0:[duration<605] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[duration<474] yes=7,no=8,missing=8
+			7:leaf=-0.291907281
+			8:leaf=-0.199161425
+		4:[duration<151] yes=9,no=10,missing=10
+			9:leaf=-0.136153847
+			10:leaf=0.115966395
+	2:[duration<907] yes=5,no=6,missing=6
+		5:[contact_2<1] yes=11,no=12,missing=12
+			11:leaf=-0.138257027
+			12:leaf=-0.0596648082
+		6:[month_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0597671419
+			14:leaf=-0.0139830513
+booster[1]:
+0:[duration<605] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[duration<474] yes=7,no=8,missing=8
+			7:leaf=-0.291907281
+			8:leaf=-0.199161425
+		4:[duration<151] yes=9,no=10,missing=10
+			9:leaf=-0.136153847
+			10:leaf=0.115966395
+	2:[duration<907] yes=5,no=6,missing=6
+		5:[contact_2<1] yes=11,no=12,missing=12
+			11:leaf=-0.138257027
+			12:leaf=-0.0596648082
+		6:[month_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0597671419
+			14:leaf=-0.0139830513
+booster[2]:
+0:[duration<605] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[duration<474] yes=7,no=8,missing=8
+			7:leaf=-0.291907281
+			8:leaf=-0.199161425
+		4:[duration<151] yes=9,no=10,missing=10
+			9:leaf=-0.136153847
+			10:leaf=0.115966395
+	2:[duration<907] yes=5,no=6,missing=6
+		5:[contact_2<1] yes=11,no=12,missing=12
+			11:leaf=-0.138257027
+			12:leaf=-0.0596648082
+		6:[month_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0597671419
+			14:leaf=-0.0139830513
+booster[3]:
+0:[duration<605] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[duration<474] yes=7,no=8,missing=8
+			7:leaf=-0.291907281
+			8:leaf=-0.199161425
+		4:[duration<151] yes=9,no=10,missing=10
+			9:leaf=-0.136153847
+			10:leaf=0.115966395
+	2:[duration<907] yes=5,no=6,missing=6
+		5:[contact_2<1] yes=11,no=12,missing=12
+			11:leaf=-0.138257027
+			12:leaf=-0.0596648082
+		6:[month_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0597671419
+			14:leaf=-0.0139830513
+booster[4]:
+0:[duration<605] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[duration<474] yes=7,no=8,missing=8
+			7:leaf=-0.291907281
+			8:leaf=-0.199161425
+		4:[duration<151] yes=9,no=10,missing=10
+			9:leaf=-0.136153847
+			10:leaf=0.115966395
+	2:[duration<907] yes=5,no=6,missing=6
+		5:[contact_2<1] yes=11,no=12,missing=12
+			11:leaf=-0.138257027
+			12:leaf=-0.0596648082
+		6:[month_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0597671419
+			14:leaf=-0.0139830513
+booster[5]:
+0:[duration<605] yes=1,no=2,missing=2
+	1:[duration<474] yes=3,no=4,missing=4
+		3:[month_5<1] yes=7,no=8,missing=8
+			7:leaf=-0.292044371
+			8:leaf=0.0521739163
+		4:[month_1<1] yes=9,no=10,missing=10
+			9:leaf=-0.181766391
+			10:leaf=-0.247244105
+	2:[duration<907] yes=5,no=6,missing=6
+		5:[contact_2<1] yes=11,no=12,missing=12
+			11:leaf=-0.138257027
+			12:leaf=-0.0596648082
+		6:[month_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0597671419
+			14:leaf=-0.0139830513
+booster[6]:
+0:[duration<474] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[month_5<1] yes=7,no=8,missing=8
+			7:leaf=0.299090922
+			8:leaf=0.0521739163
+		4:[duration<93] yes=9,no=10,missing=10
+			9:leaf=-0.223728821
+			10:leaf=0.0459016412
+	2:[duration<829] yes=5,no=6,missing=6
+		5:[duration<641] yes=11,no=12,missing=12
+			11:leaf=-0.192426845
+			12:leaf=-0.0892610848
+		6:[month_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0482365191
+			14:leaf=-0.0293918941
+booster[7]:
+0:[duration<605] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[duration<474] yes=7,no=8,missing=8
+			7:leaf=-0.291907281
+			8:leaf=-0.199161425
+		4:[duration<151] yes=9,no=10,missing=10
+			9:leaf=-0.136153847
+			10:leaf=0.115966395
+	2:[duration<907] yes=5,no=6,missing=6
+		5:[contact_2<1] yes=11,no=12,missing=12
+			11:leaf=-0.138257027
+			12:leaf=-0.0596648082
+		6:[month_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0597671419
+			14:leaf=-0.0139830513
+booster[8]:
+0:[duration<605] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:leaf=0.299508214
+		4:[duration<170] yes=7,no=8,missing=8
+			7:leaf=-0.11677853
+			8:leaf=0.135000005
+	2:[duration<872] yes=5,no=6,missing=6
+		5:[month_4<1] yes=9,no=10,missing=10
+			9:leaf=-0.115113549
+			10:leaf=0.00151515158
+		6:[month_1<1] yes=11,no=12,missing=12
+			11:leaf=0.0559622236
+			12:leaf=-0.0185328182
+booster[9]:
+0:[duration<493] yes=1,no=2,missing=2
+	1:[month_5<1] yes=3,no=4,missing=4
+		3:[month_10<1] yes=7,no=8,missing=8
+			7:leaf=-0.292136759
+			8:leaf=-0.14057143
+		4:[duration<86] yes=9,no=10,missing=10
+			9:leaf=-0.234782621
+			10:leaf=0.193750009
+	2:[duration<641] yes=5,no=6,missing=6
+		5:[month_4<1] yes=11,no=12,missing=12
+			11:leaf=-0.197837844
+			12:leaf=-0.115263164
+		6:[marital_1<1] yes=13,no=14,missing=14
+			13:leaf=-0.0685714334
+			14:leaf=-0.131319702
+booster[10]:
+0:[duration<481] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[month_5<1] yes=7,no=8,missing=8
+			7:leaf=0.29912281
+			8:leaf=0.198000014
+		4:[duration<192] yes=9,no=10,missing=10
+			9:leaf=-0.00267857173
+			10:leaf=0.138750002
+	2:[duration<835] yes=5,no=6,missing=6
+		5:[duration<638] yes=11,no=12,missing=12
+			11:leaf=-0.156049386
+			12:leaf=-0.0882186592
+		6:[month_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0480505824
+			14:leaf=-0.026041666
+booster[11]:
+0:[duration<477] yes=1,no=2,missing=2
+	1:[month_5<1] yes=3,no=4,missing=4
+		3:[month_10<1] yes=7,no=8,missing=8
+			7:leaf=-0.292644173
+			8:leaf=-0.0470149294
+		4:[duration<85] yes=9,no=10,missing=10
+			9:leaf=-0.234782621
+			10:leaf=0.191489369
+	2:[month_4<1] yes=5,no=6,missing=6
+		5:[month_8<1] yes=11,no=12,missing=12
+			11:leaf=-0.0410841666
+			12:leaf=-0.14642857
+		6:[day<14] yes=13,no=14,missing=14
+			13:leaf=0.0972527564
+			14:leaf=-0
+booster[12]:
+0:[duration<593] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[month_4<1] yes=7,no=8,missing=8
+			7:leaf=0.247340426
+			8:leaf=0.073282443
+		4:[day<13] yes=9,no=10,missing=10
+			9:leaf=0.0338028185
+			10:leaf=-0.115714289
+	2:[duration<829] yes=5,no=6,missing=6
+		5:[month_4<1] yes=11,no=12,missing=12
+			11:leaf=-0.101603784
+			12:leaf=-0.0131147541
+		6:[marital_1<1] yes=13,no=14,missing=14
+			13:leaf=0.0492986031
+			14:leaf=-0.0131004369
+booster[13]:
+0:[duration<562] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[month_4<1] yes=7,no=8,missing=8
+			7:leaf=-0.288070083
+			8:leaf=-0.0229299366
+		4:[campaign<5] yes=9,no=10,missing=10
+			9:leaf=0.0425806455
+			10:leaf=-0.176470608
+	2:[duration<720] yes=5,no=6,missing=6
+		5:[month_2<1] yes=11,no=12,missing=12
+			11:leaf=-0.102080785
+			12:leaf=-0.024742268
+		6:[pdays<123] yes=13,no=14,missing=14
+			13:leaf=-0.0207898673
+			14:leaf=-0.147368431
+booster[14]:
+0:[duration<477] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[month_5<1] yes=7,no=8,missing=8
+			7:leaf=0.299107164
+			8:leaf=0.195918366
+		4:[education_3<1] yes=9,no=10,missing=10
+			9:leaf=0.0635761619
+			10:leaf=-0.262500018
+	2:[contact_2<1] yes=5,no=6,missing=6
+		5:[duration<816] yes=11,no=12,missing=12
+			11:leaf=0.0924369842
+			12:leaf=-0.00166666682
+		6:[duration<801] yes=13,no=14,missing=14
+			13:leaf=-0.0463492088
+			14:leaf=0.0225212462
+booster[15]:
+0:[duration<474] yes=1,no=2,missing=2
+	1:[month_5<1] yes=3,no=4,missing=4
+		3:[month_10<1] yes=7,no=8,missing=8
+			7:leaf=-0.292765409
+			8:leaf=-0.075000003
+		4:[duration<84] yes=9,no=10,missing=10
+			9:leaf=-0.234782621
+			10:leaf=0.191489369
+	2:[month_1<1] yes=5,no=6,missing=6
+		5:[duration<629] yes=11,no=12,missing=12
+			11:leaf=0.0173076931
+			12:leaf=-0.0374283902
+		6:[duration<918] yes=13,no=14,missing=14
+			13:leaf=-0.0948529467
+			14:leaf=-0.0119469035
+booster[16]:
+0:[duration<475] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[duration<430] yes=7,no=8,missing=8
+			7:leaf=0.284210533
+			8:leaf=0.198529407
+		4:[age<34] yes=9,no=10,missing=10
+			9:leaf=-0.00454545487
+			10:leaf=0.0988636464
+	2:[duration<480] yes=5,no=6,missing=6
+		5:[age<58] yes=11,no=12,missing=12
+			11:leaf=-0.204545468
+			12:leaf=0.200000018
+		6:[duration<588] yes=13,no=14,missing=14
+			13:leaf=0.128424659
+			14:leaf=0.00136674265
+booster[17]:
+0:[duration<426] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[month_5<1] yes=7,no=8,missing=8
+			7:leaf=-0.293890476
+			8:leaf=0.0521739163
+		4:[duration<76] yes=9,no=10,missing=10
+			9:leaf=-0.210000008
+			10:leaf=-0
+	2:[duration<782] yes=5,no=6,missing=6
+		5:[month_1<1] yes=11,no=12,missing=12
+			11:leaf=-0.0811926574
+			12:leaf=-0.0101941749
+		6:[previous<1] yes=13,no=14,missing=14
+			13:leaf=0.0261171032
+			14:leaf=-0.0954545513
+booster[18]:
+0:[duration<562] yes=1,no=2,missing=2
+	1:[month_4<1] yes=3,no=4,missing=4
+		3:[month_10<1] yes=7,no=8,missing=8
+			7:leaf=0.223177567
+			8:leaf=0.00413793139
+		4:[duration<480] yes=9,no=10,missing=10
+			9:leaf=0.176470608
+			10:leaf=-0.128947377
+	2:[contact_2<1] yes=5,no=6,missing=6
+		5:[duration<587] yes=11,no=12,missing=12
+			11:leaf=-0.199038476
+			12:leaf=0.0529166684
+		6:[duration<602] yes=13,no=14,missing=14
+			13:leaf=0.218750015
+			14:leaf=-0.0515698604
+booster[19]:
+0:[duration<427] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[month_5<1] yes=7,no=8,missing=8
+			7:leaf=0.271678329
+			8:leaf=0.0521739163
+		4:[previous<3] yes=9,no=10,missing=10
+			9:leaf=0.0137404585
+			10:leaf=-0.25
+	2:[duration<583] yes=5,no=6,missing=6
+		5:[duration<474] yes=11,no=12,missing=12
+			11:leaf=-0.254000008
+			12:leaf=-0.16845426
+		6:[duration<984] yes=13,no=14,missing=14
+			13:leaf=-0.0272169169
+			14:leaf=0.0325737298
+booster[20]:
+0:[duration<496] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[month_5<1] yes=7,no=8,missing=8
+			7:leaf=-0.29176712
+			8:leaf=0.0557142906
+		4:[day<28] yes=9,no=10,missing=10
+			9:leaf=0.0283464584
+			10:leaf=-0.160000011
+	2:[job_11<1] yes=5,no=6,missing=6
+		5:[day<4] yes=11,no=12,missing=12
+			11:leaf=-0.0668918937
+			12:leaf=0.0113055184
+		6:[day<6] yes=13,no=14,missing=14
+			13:leaf=0.25
+			14:leaf=-0.137500003
+booster[21]:
+0:[duration<529] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[contact_2<1] yes=7,no=8,missing=8
+			7:leaf=0.106578946
+			8:leaf=0.27713415
+		4:[education_1<1] yes=9,no=10,missing=10
+			9:leaf=-0.0375000015
+			10:leaf=0.0689189211
+	2:[pdays<111] yes=5,no=6,missing=6
+		5:[job_7<1] yes=11,no=12,missing=12
+			11:leaf=-0.00194029859
+			12:leaf=0.0666666701
+		6:[duration<549] yes=13,no=14,missing=14
+			13:leaf=0.25
+			14:leaf=-0.110377364
+booster[22]:
+0:[duration<422] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[month_5<1] yes=7,no=8,missing=8
+			7:leaf=-0.293941587
+			8:leaf=0.0521739163
+		4:[age<58] yes=9,no=10,missing=10
+			9:leaf=-0.0260869581
+			10:leaf=0.120000005
+	2:[duration<521] yes=5,no=6,missing=6
+		5:[month_1<1] yes=11,no=12,missing=12
+			11:leaf=-0.0941326544
+			12:leaf=-0.225000009
+		6:[marital_1<1] yes=13,no=14,missing=14
+			13:leaf=0.00610465137
+			14:leaf=-0.0268558953
+booster[23]:
+0:[duration<487] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[duration<401] yes=7,no=8,missing=8
+			7:leaf=0.245714292
+			8:leaf=0.0932926834
+		4:[job_1<1] yes=9,no=10,missing=10
+			9:leaf=-0.0619565211
+			10:leaf=0.0418604687
+	2:[duration<523] yes=5,no=6,missing=6
+		5:[month_3<1] yes=11,no=12,missing=12
+			11:leaf=-0.0662069023
+			12:leaf=-0.218181834
+		6:[duration<1290] yes=13,no=14,missing=14
+			13:leaf=-0.00739130424
+			14:leaf=0.0501742177
+booster[24]:
+0:[duration<435] yes=1,no=2,missing=2
+	1:[month_10<1] yes=3,no=4,missing=4
+		3:[contact_2<1] yes=7,no=8,missing=8
+			7:leaf=-0.147081718
+			8:leaf=-0.290797293
+		4:[balance<0] yes=9,no=10,missing=10
+			9:leaf=0.25
+			10:leaf=0.00234375009
+	2:[duration<540] yes=5,no=6,missing=6
+		5:[pdays<179] yes=11,no=12,missing=12
+			11:leaf=0.143749997
+			12:leaf=-0.13333334
+		6:[month_6<1] yes=13,no=14,missing=14
+			13:leaf=0.00551470648
+			14:leaf=-0.0378737524
